@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include "classe.hpp"
+#include <iostream>
+using namespace std;
 
 //############################################
-//  METHODES CLASSE 
+//  CLASSE 
 //############################################
 
